@@ -1,8 +1,8 @@
 ﻿using LibraryManagementSystem.Entities;
 
-namespace LibraryManagementSystem.Struct;
+namespace LibraryManagementSystem.Operations;
 
-public struct BookOperations
+public class BookOperations
 {
     public static void PrintBooks(List<Book> bookList, out bool continueExecution)
     {

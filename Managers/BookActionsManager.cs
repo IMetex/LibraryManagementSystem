@@ -1,7 +1,7 @@
 ﻿using LibraryManagementSystem.Data;
 using LibraryManagementSystem.Entities;
 using LibraryManagementSystem.Interface;
-using LibraryManagementSystem.Struct;
+using LibraryManagementSystem.Operations;
 
 namespace LibraryManagementSystem.Managers
 {
